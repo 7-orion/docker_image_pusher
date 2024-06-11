@@ -1,4 +1,6 @@
 nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
+amilys/embyserver:beta
+talebook/talebook:latest
 --platform=linux/arm64 xiaoyaliu/alist
