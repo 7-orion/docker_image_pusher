@@ -3,4 +3,5 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 amilys/embyserver:beta
 talebook/talebook:latest
+lswl/vertex:stable
 --platform=linux/arm64 xiaoyaliu/alist
